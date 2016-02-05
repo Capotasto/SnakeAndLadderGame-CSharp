@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\MiniSnakesAndLaddersGame\MiniSnakesAndLaddersGame\bin\Debug\MiniSnakesAndLaddersGame.exe.config
+\\mac\home\documents\visual studio 2015\Projects\MiniSnakesAndLaddersGame\MiniSnakesAndLaddersGame\obj\Debug\MiniSnakesAndLaddersGame.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\MiniSnakesAndLaddersGame\MiniSnakesAndLaddersGame\obj\Debug\MiniSnakesAndLaddersGame.SnakeAndLadderGame.resources
+\\mac\home\documents\visual studio 2015\Projects\MiniSnakesAndLaddersGame\MiniSnakesAndLaddersGame\obj\Debug\MiniSnakesAndLaddersGame.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\MiniSnakesAndLaddersGame\MiniSnakesAndLaddersGame\obj\Debug\MiniSnakesAndLaddersGame.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\MiniSnakesAndLaddersGame\MiniSnakesAndLaddersGame\bin\Debug\MiniSnakesAndLaddersGame.exe
+\\mac\home\documents\visual studio 2015\Projects\MiniSnakesAndLaddersGame\MiniSnakesAndLaddersGame\bin\Debug\MiniSnakesAndLaddersGame.pdb
+\\mac\home\documents\visual studio 2015\Projects\MiniSnakesAndLaddersGame\MiniSnakesAndLaddersGame\obj\Debug\MiniSnakesAndLaddersGame.exe
+\\mac\home\documents\visual studio 2015\Projects\MiniSnakesAndLaddersGame\MiniSnakesAndLaddersGame\obj\Debug\MiniSnakesAndLaddersGame.pdb
